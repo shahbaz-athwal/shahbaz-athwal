@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shahbaz Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shahbaz </h1>
 
-- 📫 How to reach me: **shahbazathwal2107@gmail.com**
 
-- ⚡ Fun fact: **I like Photography**
+- 📫Reach me at **shahbazathwal2107@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
