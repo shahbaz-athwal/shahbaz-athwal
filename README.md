@@ -16,8 +16,8 @@
  🌱 I’m currently learning **Docker, AWS, and C#**
 
  💬 Ask me about **Node.js, React, Python, Java... or anything [here](https://github.com/shahbaz-athwal/shahbaz-athwal/issues)**
-
 <hr/>
+
  </div>
  <h3 align="center" >Connect with me on 👇</h3>
 <div align="center">
@@ -32,7 +32,7 @@
   </a>
 
 </div>
- <hr/>
+
  
 <h2 align="center">⚒️ SKILLS ⚒️</h2>
 <br/>
@@ -53,7 +53,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2>A snake 🐍 eating my contributions </h2>
@@ -63,7 +62,7 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
