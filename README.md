@@ -13,25 +13,13 @@
  
  🔭 I’m a 3rd year Computer Science student at **Acadia University**
  
- 🌱 I’m currently learning **Docker, AWS, and C#**
+ 🌱 I’m currently learning **Docker, AWS, and Kubernetes**
 
  💬 Ask me about **Node.js, React, Python, Java... or anything [here](https://github.com/shahbaz-athwal/shahbaz-athwal/issues)**
 <hr/>
 
  </div>
- <h3 align="center" >Connect with me on 👇</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/shahbaz-athwal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:shahbazathwal2107@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/shahbaz_athwal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 
-</div>
 
  
 <h2 align="center">⚒️ SKILLS ⚒️</h2>
