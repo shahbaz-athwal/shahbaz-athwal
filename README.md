@@ -10,13 +10,13 @@
 <h2 align="center">⚒️ SKILLS ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,git,docker,nextjs,typescript,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=aws,git,docker,nextjs,typescript,nodejs,express,grafana,prometheus" />
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,html,tailwind,css,postgresql,react,azure,nextjs" />
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu,postman,prisma,mongodb,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,postman,prisma,mongodb,mysql,python,redis,kafka,kubernetes" />
 </div>
 <br/>
 
