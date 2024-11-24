@@ -15,5 +15,6 @@
 
 <h2>Stats ⚡</h2>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-athwal&theme=tokyonight&hide_border=true" />
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-athwal&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shahbaz_athwal&theme=radical&langs_count=5&hide_title=true&hide=json"/>
 </div>
