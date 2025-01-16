@@ -16,5 +16,5 @@
 <h2>Stats ⚡</h2>
 <div align="center">
     <img width=350 src="https://github-stats.shahcodes.in/?username=shahbaz-athwal&theme=transparent" />
-    <img width=400 src="https://github-stats.shahcodes.in/wakatime?username=shahbaz_athwal&theme=tranparent&langs_count=5&hide_title=true&hide=json"/>
+    <img width=400 src="https://github-stats.shahcodes.in/wakatime?username=shahbaz_athwal&theme=transparent&langs_count=5&hide_title=true&hide=json"/>
 </div>
